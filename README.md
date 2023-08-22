@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Matías Seitour</h1>
 <h3 align="center">A passionate and enthusiastic frontend developer from argentina</h3>
 
-- 🔭 I’m currently working as a freelance [almacen buenavida](https://github.com/MatySeitour/Almacen-Buenavida)
-
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **Golang**
 
 - 👨‍💻 All of my projects are available at [http://portafolio-puce-six.vercel.app/](http://portafolio-puce-six.vercel.app/)
 
-- 💬 Ask me about **React, Javascript, Next, Express, NodeJS, TailwindCSS**
+- 💬 Ask me about **React, Javascript, Next, Express, NodeJS, TailwindCSS, MySQL**
 
 - 📫 How to reach me **matias.seitour01@gmail.com**
 

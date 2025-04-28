@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matías Seitour</h1>
 <h3 align="center">A passionate and enthusiastic frontend developer from argentina</h3>
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently learning **Laravel**
 
 - 👨‍💻 All of my projects are available at [My website](https://portfolio-v2-nine-alpha.vercel.app/)
 
